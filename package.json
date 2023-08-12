@@ -1,0 +1,21 @@
+{
+  "name": "CogniCoreAI-",
+  "version": "1.0.0",
+  "description": "No description provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lock": "npm install --package-lock-only",
+    "build": "your-build-command-here"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "1.2.3",
+    "typescript": "4.5.6",
+    "nlp-library": "2.3.4",
+    "reasoning-algorithms": "3.4.5",
+    "machine-learning-framework": "4.5.6",
+    "other-library": "5.6.7"
+  }
+}
